@@ -9,7 +9,7 @@ This will create a static lib for zlib, that you can use in your wasm program
 ```bash
 #!/usr/bin/env bash
 
-PATH_ZLIB=/home/ryuukk/tmp/zlib/
+PATH_ZLIB=/home/ryuukk/tmp/zlib
 
 mkdir -p build/
 cd build/
