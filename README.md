@@ -1,4 +1,4 @@
-# zlib_wasm
+# zlib + wasm
 zlib build script to target web assembly
 
 
