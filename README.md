@@ -1,6 +1,9 @@
 # zlib_wasm
 zlib build script to target web assembly
 
+
+Change the path to your zlib source folder
+
 This will create a static lib for zlib, that you can use in your wasm program
 
 ```bash
