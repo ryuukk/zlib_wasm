@@ -1,5 +1,5 @@
 # zlib + wasm
-zlib build script to target web assembly
+zlib build script to target web assembly without emscripten
 
 
 Change the path to your zlib source folder
